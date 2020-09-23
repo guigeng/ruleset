@@ -1,4 +1,4 @@
-playload:
+payload:
 # OneDrive
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDriveUpdater
