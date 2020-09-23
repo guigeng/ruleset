@@ -1,6 +1,6 @@
 payload:
-	# Google China
-	#DOMAIN-SUFFIX,translate.googleapis.com
+  # 内容：GoogleCN
+  # 数量：52条
   - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,alt1-mtalk.google.com
